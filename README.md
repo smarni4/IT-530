@@ -1,2 +1,2 @@
 # IT-530
-Computer_Security
+Computer_Security course
